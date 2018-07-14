@@ -1,0 +1,56 @@
+{
+	"basics":{
+	"name":"susmitha",
+	"email":"gundasusmitha8@gmail.com",
+	"mobile":"+91 6768788386"
+},
+"career":{
+	"info":"I aspire for a challenging position in a professional Organization where I can enhance my professional skills and strengthen my performance in adding with Organization’s motto. Myself a self motivated achiever with an ability to plan and execute."
+},
+"education":[
+{
+	"degree":"B.TECH(c.s.e)",
+	"institute":"Avanthi institute & engineering college",
+	"data":["2015-19","75%"]
+},
+	{
+		"degree":"intermediate(m.p.c)",
+	"institute":"sri gayatri junior  college",
+	"data":["2013-15","85.5%"]
+},
+
+	{
+		"degree":"s.s.c",
+	"institute":"amar concept school",
+	"data":["2013","7.7"]
+}
+
+],
+"skills":[
+{
+	"title":"programming languages",
+	"info":["c","c+","java","python","R"]
+},
+{
+"title":"DataBases",
+"info":["mysql","mogoDb","Oracle"]
+
+},
+{
+	"title":"web technologies",
+	"info":["HTML","css3","javascript"]
+},
+
+
+{
+	"title":"library and frameworks",
+	"info":["ionic","angular","expressions"]
+
+
+},
+{
+	"title":"operating system",
+	"info":["linux","windows","dos"]
+}
+]
+}
